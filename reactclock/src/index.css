@@ -8,9 +8,12 @@ body {
 }
 
 .clock-frame {
-
+  background-color: whitesmoke;
+  
 }
 
 .clock {
-  
+  color: black;
+  font-size: 8rem;
+  text-align: center;
 }
