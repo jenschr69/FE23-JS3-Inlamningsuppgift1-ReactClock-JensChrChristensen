@@ -3,6 +3,8 @@ Inlämningsuppgift 1 JS 3 - Jens Chr Christensen
 GitHub repo: [ ]
 Public url: [ ]
 
+Heavily inspired by BroCode: https://www.youtube.com/watch?v=AiQ-V_0qvRI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
