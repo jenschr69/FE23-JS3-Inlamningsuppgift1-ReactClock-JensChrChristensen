@@ -1,3 +1,8 @@
+Inlämningsuppgift 1 JS 3 - Jens Chr Christensen
+
+GitHub repo: [ ]
+Public url: [ ]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
